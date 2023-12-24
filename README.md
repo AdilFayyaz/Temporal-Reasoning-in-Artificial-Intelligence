@@ -16,4 +16,4 @@ The typical workflow involves taking a sequence of actions and observations with
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/temporal-reasoning-ai.git
+   git clone https://github.com/AdilFayyaz/temporal-reasoning-ai.git
