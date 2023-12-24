@@ -11,3 +11,7 @@ The typical workflow involves taking a sequence of actions and observations with
 1. **Little Prince Environment**: The repository includes a base version featuring the "Little Prince" environment. This serves as an introductory scenario for exploring temporal reasoning applications.
 
 2. **Advanced Temporal Data**: The project goes beyond the basics by providing an advanced version that revolves around speech recognition and text prediction. This challenging environment aims to push the boundaries of temporal reasoning algorithms.
+
+
+## Viterbi Algorithm
+![FMP_C5_F28b](https://github.com/AdilFayyaz/Temporal-Reasoning-in-Artificial-Intelligence/assets/62440954/9d51b65d-e41c-4978-a57e-c3b32796b44e)
