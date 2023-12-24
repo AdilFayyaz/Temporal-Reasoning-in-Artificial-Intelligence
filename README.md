@@ -11,9 +11,3 @@ The typical workflow involves taking a sequence of actions and observations with
 1. **Little Prince Environment**: The repository includes a base version featuring the "Little Prince" environment. This serves as an introductory scenario for exploring temporal reasoning applications.
 
 2. **Advanced Temporal Data**: The project goes beyond the basics by providing an advanced version that revolves around speech recognition and text prediction. This challenging environment aims to push the boundaries of temporal reasoning algorithms.
-
-## How to Use
-
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/AdilFayyaz/temporal-reasoning-ai.git
